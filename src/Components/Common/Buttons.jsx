@@ -1,10 +1,14 @@
 import React from 'react'
 
-function Buttons() {
+  const Buttons = (props) => {
+
+  
   return (
-    <button class=" rounded-none ...">sign up</button>
+    <button className="  bg-sky-500 text-white rounded-none ...">
+    {props.name}
+    </button>
     
   )
-}
+  }
 
-export default Buttons
+export default Buttons;

@@ -15,8 +15,8 @@ function App() {
       <Navbar />
      <Cards/>
       {/* <Sidebar/>
-      <Buttons/>
-      <Signin/> */}
+      <Buttons name="remove all"/> */}
+      {/* <Signin/> */}
 
   </div>
   );
