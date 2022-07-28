@@ -4,7 +4,7 @@ import React from 'react'
 
   
   return (
-    <button className="  bg-sky-500 text-white rounded-none ...">
+    <button className=" w-20 bg-sky-500 text-white rounded-none ...">
     {props.name}
     </button>
     

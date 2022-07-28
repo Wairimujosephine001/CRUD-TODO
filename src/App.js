@@ -7,16 +7,23 @@ import Cards from './Components/Common/Cards';
 import Sidebar from './Components/Common/Sidebar';
 import Buttons from './Components/Common/Buttons';
 import Signin from './Components/Signin';
+import Reset from './Components/Reset';
+import Edit from './Components/Edit';
 
 
 function App() {
   return (
     <div className="App">
-      <Navbar />
-     <Cards/>
-      {/* <Sidebar/>
+      {/* <Navbar />
+  
+      <Sidebar/>
+      
       <Buttons name="remove all"/> */}
+      {/* <Forgotpassword/> */}
       {/* <Signin/> */}
+      {/* <Reset/> */}
+   <Edit/>
+      
 
   </div>
   );
