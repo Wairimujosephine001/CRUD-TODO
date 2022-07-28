@@ -9,20 +9,23 @@ import Buttons from './Components/Common/Buttons';
 import Signin from './Components/Signin';
 import Reset from './Components/Reset';
 import Edit from './Components/Edit';
+import Todo from './Components/Todo';
 
 
 function App() {
   return (
     <div className="App">
-      {/* <Navbar />
+      
   
-      <Sidebar/>
+      {/* <Sidebar/> */}
+      {/* <Navbar />
       
       <Buttons name="remove all"/> */}
       {/* <Forgotpassword/> */}
       {/* <Signin/> */}
       {/* <Reset/> */}
-   <Edit/>
+   {/* <Edit/> */}
+   <Todo/>
       
 
   </div>

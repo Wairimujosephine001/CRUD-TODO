@@ -7,7 +7,7 @@ import Buttons from './Common/Buttons';
 function Edit() {
   return (
     <div>
-        <div className='flex-justify-between' > <Navbar/> </div>
+        <div className='flex-justify-between' > <Navbar /> </div>
         <div className=" py-8 bg-white h-[400px]  w-[100%]  shadow-md">
           <div className='col-12' >
         <div className=' text-left ml-24 pt-3 font-bold'>Title</div>
