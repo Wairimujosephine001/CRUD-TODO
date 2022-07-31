@@ -15,6 +15,7 @@ const Cards = () => {
       <p className="text-slate-500 font-medium">
       ******0000
             </p>
+        
     </div>
   </div>
 </div>
