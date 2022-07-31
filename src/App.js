@@ -24,8 +24,8 @@ function App() {
       {/* <Forgotpassword/> */}
       {/* <Signin/> */}
       {/* <Reset/> */}
-   {/* <Edit/> */}
-   <Todo/>
+   <Edit/>
+   {/* <Todo/> */}
       
 
   </div>
